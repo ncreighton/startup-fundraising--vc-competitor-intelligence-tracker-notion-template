@@ -1,2 +1,28 @@
-# startup-fundraising--vc-competitor-intelligence-tracker-notion-template
-Gain a competitive edge in your startup fundraising journey with our all-in-one Notion template designed for VC competitor intelligence. Track pricing changes, feature updates, and marketing moves of your rivals without expensive tools like Klue. This template automates competitor monitoring, providing real-time alerts on key shifts in the landscap
+# Startup Fundraising & VC Competitor Intelligence Tracker Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJe28rdPpcYI9JK8nGcZX0s)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJe28rdPpcYI9JK8nGcZX0s)
+
